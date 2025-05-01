@@ -1,0 +1,3 @@
+{"username":"manish","gender":"male"}
+
+//Notes in this file we learn 1. Event Driven 2. async Code  3. Blocking Code  4. Single Threaded  5. V8 vs libuv  6. Node Runtime  7 Events Loop
