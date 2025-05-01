@@ -1,0 +1,32 @@
+1 npm :Node.js package manager for code sharing
+2 package:Reusable code or library
+3 package.json: Defines package metadata and dependencies
+4 Versioning: Manags differnt package versions
+5 local/Global; install package locally or globally
+6 Registry;Public storage for open-source package7>Examples; Express, React,Lodash
+
+
+npm init :- Start a new package.json file
+npm install <pkg> ;- install a package (eg. express) 
+npm install ;- install all dependencies listed in package.json
+npm start ;run a custom script
+npm uninstall <pkg> :-remove a package
+npm run <pkg> :- run a custom script
+npm install -g <pkg. :- install a package globally 
+npm update :- updaes all install package
+
+npm install -g nodemon :- install nodemon globally
+
+
+***********************************************************
+
+Tool                     	Purpose
+Node.js                   	Runtime to run JavaScript outside browser
+Nodemon	                    Auto-restarts server on file changes
+Express.js	                Web framework for building APIs/web apps
+React	                    Frontend library for building UIs
+MongoDB/Mongoose           	Database and ODM for Node apps
+Webpack	                    Bundles frontend assets
+ESLint/Prettier	            Code formatting and linting
+Jest/Mocha	                Testing frameworks
+dotenv	                     Load environment variables from .env file
