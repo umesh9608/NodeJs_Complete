@@ -1,0 +1,7 @@
+1. stream :continous folw in a same direction 
+2. chunks :pice of small data 
+3. Buffers :A buffer is a temporary storage area used to hold data while it is being moved from one place to another.
+4. Reading chunks
+5. Buffering chunks
+6. Parsing Request
+7. Using Modules
