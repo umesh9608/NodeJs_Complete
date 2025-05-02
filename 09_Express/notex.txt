@@ -1,0 +1,17 @@
+1 Syntax Error:An error in the coder's strcture, causing it to not complie or run(eg, missing semicolon)
+2. Logical Error;The code runs but produces incorrect request dut to fault logic(eg wrong formula)
+3. Runtime Error:An error that occurs while the progra, running, often due to invalid operations
+
+
+
+
+1. What is Express.js : is a minimal and flexible web application framework for Node.js'
+   it provides a robust sef of feature for building single-page, multi-page and hybrid web application
+   Express.js simplifes seve-side coding by providing a layer of fundamental web application features.
+
+*********************************************
+1. Express.js simplifies simplifes Server Creation:Helps in qucikly setting up and running a web Server without the need for complex coding
+2. Routing Management : Provides a powerful routing mechanism to handle URLs and HTTP methods effectively.
+3> Middleweare Support: Allows the use of middleware to handle requests, respones and any middle operations, making code modular and maintainable
+4. Api develompent; funcilitates easy and efficient creation of RESTful API's.
+5. Community and Plugins: Has a large ecosystem with numerous plugins and extensions, accelerating development time.
